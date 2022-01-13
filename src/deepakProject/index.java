@@ -3,7 +3,7 @@ package deepakProject;
 public class index {
 
 	public static void main(String[] args) {
-	System.out.println("Chetan Kochar");
+	int a = 15;
 	}
 
 }
